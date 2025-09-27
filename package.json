@@ -1,0 +1,16 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "description": "AWS_ACCESS_KEY_ID=AKIAUZPNLFGZ5LEOOPC4\r AWS_SECRET_ACCESS_KEY=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\r AWS_REGION=ap-south-1\r S3_BUCKET_NAME=intern-uploader-kavya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.896.0",
+    "@aws-sdk/s3-request-presigner": "^3.896.0"
+  }
+}
